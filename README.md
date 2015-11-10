@@ -40,6 +40,9 @@
 1. Go to the homepage, http://localhost:8000/ and ensure you are not already logged in to an existing account
 2. click on **link to register as a patient**
 3. Fill out the form
+    * **Phone** must be in the form of ten consecutive digits (no spaces). For example, **5851234567** would be the correct entry for the phone number 585-123-4567
+    * **date** must be in the form **xx/xx/xxxx**
+    * **social security** must in the form of nine consecutive digits (no spaces). For example, **123121234** would be the correct entry for the SSN 123-12-1234
 4. Upon successful completion of the form, the patient has been created. He/she can now log in with the patient's username and password
 
 ### Logging in
